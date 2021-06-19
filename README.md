@@ -8,4 +8,4 @@
 
         - 你可以按任意顺序返回答案。
     - 代码
-        - [我的解答](https://github.com/monaShe520/leetcodeSave/blob/a32b384ffd93ca57b62474cde059b3ebe3967957/code/leetcode_1_two-sum/main.go#L8)
+        - [我的解答](https://github.com/monaShe520/leetcodeSave/blob/9daedbc57d19051041129fe9cad383f2bbb09f52/code/leetcode_1_two-sum/main.go#L8)
