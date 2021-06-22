@@ -30,4 +30,10 @@
     - 代码
         - 我的解答
             - [m+n](https://github.com/monaShe520/leetcodeSave/blob/3be596e1fb64b60543ba476e3320613aaeeb6250/code/leetcode_4_median-of-two-sorted-arrays/main.go#L32)
+- [5.最长回文子串#5](https://leetcode-cn.com/problems/longest-palindromic-substring/)
+    - 题目
+        - 给你一个字符串 s，找到 s 中最长的回文子串。
+    - 代码
+        - 我的解答
+            - [n^2中心扩散法](https://github.com/monaShe520/leetcodeSave/blob/aabcdd7dc6d26b81563bf19a13787b7c3524f18a/code/leetcode_5_longest-palindromic-substring/main.go#L22)
  
