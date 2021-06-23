@@ -36,6 +36,15 @@
     - 代码
         - 我的解答
             - [n^2中心扩散法](https://github.com/monaShe520/leetcodeSave/blob/aabcdd7dc6d26b81563bf19a13787b7c3524f18a/code/leetcode_5_longest-palindromic-substring/main.go#L22)
+- [20.有效的括号#20](https://leetcode-cn.com/problems/valid-parentheses/)
+    - 题目
+        - 给定一个只包括 '('，')'，'{'，'}'，'['，']' 的字符串 s ，判断字符串是否有效。
+        - 有效字符串需满足：
+        - 左括号必须用相同类型的右括号闭合。
+        - 左括号必须以正确的顺序闭合。
+    - 代码
+        - 我的解答
+            - [n](https://github.com/monaShe520/leetcodeSave/blob/b997a1ab12e8c25aacffbe596fac748dcbb42557/code/leetcode_20_valid-parentheses/main.go#L54)
 - [21.合并两个有序链表#21](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
     - 题目
         - 将两个升序链表合并为一个新的 升序 链表并返回。新链表是通过拼接给定的两个链表的所有节点组成的。 
