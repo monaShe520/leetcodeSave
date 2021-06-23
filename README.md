@@ -36,6 +36,14 @@
     - 代码
         - 我的解答
             - [n^2中心扩散法](https://github.com/monaShe520/leetcodeSave/blob/aabcdd7dc6d26b81563bf19a13787b7c3524f18a/code/leetcode_5_longest-palindromic-substring/main.go#L22)
+- [11.盛最多水的容器#11](https://leetcode-cn.com/problems/container-with-most-water/)
+    - 题目
+        - 给你 n 个非负整数 a1，a2，...，an，每个数代表坐标中的一个点 (i, ai) 。在坐标内画 n 条垂直线，垂直线 i 的两个端点分别为 (i, ai) 和 (i, 0) 。找出其中的两条线，使得它们与 x 轴共同构成的容器可以容纳最多的水。
+    - 代码
+        - 我的解答
+            - n^2冒泡超时
+            - [n双指针法](https://github.com/monaShe520/leetcodeSave/blob/f6365d5a5c212a34fbd57d677fca53a493872050/code/leetcode_11-container-with-most-water/main.go#L11)
+
 - [20.有效的括号#20](https://leetcode-cn.com/problems/valid-parentheses/)
     - 题目
         - 给定一个只包括 '('，')'，'{'，'}'，'['，']' 的字符串 s ，判断字符串是否有效。
