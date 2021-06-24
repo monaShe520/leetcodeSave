@@ -44,6 +44,13 @@
             - n^2冒泡超时
             - [n双指针法](https://github.com/monaShe520/leetcodeSave/blob/f6365d5a5c212a34fbd57d677fca53a493872050/code/leetcode_11-container-with-most-water/main.go#L11)
 
+- [15.三数之和#15](https://leetcode-cn.com/problems/3sum/)
+    - 题目
+        - 给你一个包含 n 个整数的数组 nums，判断 nums 中是否存在三个元素 a，b，c ，使得 a + b + c = 0 ？请你找出所有和为 0 且不重复的三元组。
+        - 注意：答案中不可以包含重复的三元组。
+    - 代码
+        - [n^2双指针法](https://github.com/monaShe520/leetcodeSave/blob/8d826a551660d017fe8bd4343bbf7549cb490113/code/leetcode_15_3sum/main.go#L7)
+
 - [20.有效的括号#20](https://leetcode-cn.com/problems/valid-parentheses/)
     - 题目
         - 给定一个只包括 '('，')'，'{'，'}'，'['，']' 的字符串 s ，判断字符串是否有效。
