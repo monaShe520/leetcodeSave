@@ -58,6 +58,14 @@
     - 代码
         - [递归](https://github.com/monaShe520/leetcodeSave/blob/1daf7d4ae30d99e50589f783936a0ff8518eec6e/code/leetcode_17_letter-combinations-of-a-phone-number/main.go#L21)
 
+- [19.删除链表的倒数第N个节点#19](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)
+    - 题目
+        - 给你一个链表，删除链表的倒数第 n 个结点，并且返回链表的头结点。
+        - 进阶：你能尝试使用一趟扫描实现吗？
+    - 代码
+        - [n 计算链表长度](https://github.com/monaShe520/leetcodeSave/blob/96b98b734a873561167dae544bdd0e0eeef1debc/code/leetcode_19_remove-nth-node-from-end-of-list/main.go#L17)
+        - [n 快慢指针](https://github.com/monaShe520/leetcodeSave/blob/96b98b734a873561167dae544bdd0e0eeef1debc/code/leetcode_19_remove-nth-node-from-end-of-list/main.go#L42)
+
 - [20.有效的括号#20](https://leetcode-cn.com/problems/valid-parentheses/)
     - 题目
         - 给定一个只包括 '('，')'，'{'，'}'，'['，']' 的字符串 s ，判断字符串是否有效。
